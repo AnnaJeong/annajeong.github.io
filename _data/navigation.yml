@@ -3,21 +3,22 @@ main:
   - title: "About me"
     url: /about/
   - title: "Data Science"
-    sublinks:
+    sublinks: 
       - title: "Pandas"
         url: /ds/pandas/
+      - title: "git"
+        url: /ds/git/
   - title: "Machine Learning"
     sublinks:
       - title: "PRML"
         url: /ml/prml/
-  - title: "Statistics"
-    sublinks:
       - title: "Probability"
-        url: /stat/prob/
+        url: /ml/prob/
   - title: "Algorithm"
     sublinks:
       - title: "백준"
         url: /algo/backjoon/
+ 
 
 
   # - title: "About"
