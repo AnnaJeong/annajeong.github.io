@@ -2,6 +2,24 @@
 main:
   - title: "About me"
     url: /about/
+  - title: "Data Science"
+    sublinks:
+      - title: "Pandas"
+        url: /ds/pandas/
+  - title: "Machine Learning"
+    sublinks:
+      - title: "PRML"
+        url: /ml/prml/
+  - title: "Statistics"
+    sublinks:
+      - title: "Probability"
+        url: /stat/prob/
+  - title: "Algorithm"
+    sublinks:
+      - title: "백준"
+        url: /algo/backjoon/
+
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
