@@ -3,24 +3,24 @@ main:
   - title: "About me"
     url: /about/
   - title: "Data Science"
-    url: /ds/
-    sublinks: 
-      - title: "Pandas"
-        url: /ds/pandas/
-      - title: "git"
-        url: /ds/git/
-  - title: "Machine Learning"
-    url: /ml/
-    sublinks:
-      - title: "PRML"
-        url: /ml/prml/
-      - title: "Probability"
-        url: /ml/prob/
+    url: /data_science/
+  #   sublinks: 
+  #     - title: "Pandas"
+  #       url: /pandas/
+  #     - title: "git"
+  #       url: /data_sciences/git/
+  # - title: "Machine Learning"
+  #   url: /ml/
+  #   sublinks:
+  #     - title: "PRML"
+  #       url: /machine_learning/prml/
+  #     - title: "Probability"
+  #       url: /machine_learningl/prob/
   - title: "Algorithm"
-    url: /algo/
-    sublinks:
-      - title: "백준"
-        url: /algo/backjoon/
+    url: /algorithm/
+    # sublinks:
+    #   - title: "백준"
+    #     url: /algorithm/backjoon/
   - title: "Tags"
     url: /tags/
  

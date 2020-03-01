@@ -1,10 +1,9 @@
 ---
 title: "Data Science"
-permalink: /ds/
-layout: category
+permalink: /Data_Science/
 author_profile: true
-taxonomy: Data Science
 ---
 
-Posts related to Data Science will be displayed in this page.
-
+## PRML
+## Probability
+## Pandas
