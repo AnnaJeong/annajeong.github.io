@@ -1,6 +1,6 @@
 ---
 title: "Data Science"
-permalink: /Data_Science/
+permalink: /data_science/
 author_profile: true
 ---
 
