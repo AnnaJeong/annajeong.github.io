@@ -2,8 +2,13 @@
 main:
   - title: "About me"
     url: /about/
-  - title: "Data Science"
-    url: /data_science/
+  - title: "Categories"
+    url: /categories/
+    sublinks:
+      - title: "Algorithm & Data Structure"
+        url: /algorithm/
+  # - title: "Data Science"
+  #   url: /data_science/
   #   sublinks: 
   #     - title: "Pandas"
   #       url: /pandas/
@@ -16,8 +21,8 @@ main:
   #       url: /machine_learning/prml/
   #     - title: "Probability"
   #       url: /machine_learningl/prob/
-  - title: "Algorithm"
-    url: /algorithm/
+  # - title: "Algorithm"
+  #   url: /algorithm/
     # sublinks:
     #   - title: "백준"
     #     url: /algorithm/backjoon/
