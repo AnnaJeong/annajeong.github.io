@@ -1,6 +1,6 @@
 --- 
 title: "[PRML] Ch 1. Introduction"
-excerpt: Introduction to Patter Recognition and Machine Learning
+excerpt: Introduction to Pattern Recognition and Machine Learning
 
 categories:
     - PRML
