@@ -40,7 +40,7 @@ toc_sticky: true
 
 하둡은 코어 프로젝트 Hadoop Distributed File System (HDFS), MapReduce와 다양한 하둡 서브 프로젝트들이 모여서 하둡 Ecosystem을 구성하고 있습니다.
 
-![hadoop-ecosystem](../assets/images/hadoop/hadoop-ecosystem)
+![hadoop-ecosystem](../../assets/images/hadoop/hadoop-ecosystem)
 
 다음 포스팅에는 하둡 Ecosystem을 살펴보도록 하겠습니다.
 
