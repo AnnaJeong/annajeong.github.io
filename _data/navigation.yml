@@ -9,6 +9,8 @@ main:
         url: /algorithm/
       - title: "PRML"
         url: /prml/
+      - title: "Hadoop"
+        url: /hadoop/
   # - title: "Data Science"
   #   url: /data_science/
   #   sublinks: 
