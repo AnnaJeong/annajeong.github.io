@@ -1,6 +1,6 @@
 --- 
 title: "[Hadoop] 하둡이란?"
-excerpt: 하둡과 하둡 Ecosystem
+excerpt: 하둡이 뭘까?
 
 categories:
     - Hadoop
@@ -44,3 +44,12 @@ toc_sticky: true
 
 다음 포스팅에는 하둡 Ecosystem을 살펴보도록 하겠습니다.
 
+## 참고링크
+
+[Big Data and Hadoop Ecosystem Tutorial](https://www.simplilearn.com/big-data-and-hadoop-ecosystem-tutorial#:~:text=The%20Hadoop%20ecosystem%20includes%20multiple,the%20workflow%20of%20Hadoop%20jobs.)
+
+[Enough is not enough 블로그 - [분산알고리즘] Hadoop(하둡) 이란?](https://eehoeskrap.tistory.com/219) 
+
+[빅데이터는 넘커 블로그 - 하둡(Hadoop)이란?](https://over153cm.tistory.com/entry/%ED%95%98%EB%91%A1Hadoop%EC%9D%B4%EB%9E%80?category=457694) 
+
+[butter-shower 블로그 - 하둡(Hadoop)이란?](https://butter-shower.tistory.com/71?category=737935)
