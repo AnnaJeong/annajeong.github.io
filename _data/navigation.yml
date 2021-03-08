@@ -7,10 +7,14 @@ main:
     sublinks:
       - title: "Algorithm"
         url: /algorithm/
-      - title: "PRML"
-        url: /prml/
+      - title: "Data Science"
+        url: /data_science/
+      - title: "Design Pattern"
+        url: /design_pattern/
       - title: "Hadoop"
         url: /hadoop/
+      - title: "PRML"
+        url: /prml/
   # - title: "Data Science"
   #   url: /data_science/
   #   sublinks: 

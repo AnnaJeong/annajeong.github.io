@@ -6,4 +6,4 @@ author_profile: true
 taxonomy: Algorithm
 ---
 
-Posts related to Algorithm and Data Structure will be displayed in this page.
+알고리즘이나 자료구조와 관련된 포스팅

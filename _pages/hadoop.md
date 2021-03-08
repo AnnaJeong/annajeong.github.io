@@ -6,4 +6,4 @@ author_profile: true
 taxonomy: Hadoop
 ---
 
-Posts related to Hadoop will be displayed in this page.
+Hadoop과 관련된 포스팅

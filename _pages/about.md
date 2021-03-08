@@ -4,7 +4,6 @@ permalink: /about/
 layout: single
 ---
 
+데이터 분석 공부를 하고 있는 주니어입니다.
 
-My name is Anna. I majored in statistics and currently pursuing my career as a Data Scienctist
-
-This is my personal blog to record notes, summaries, codes needed for my study. Materials related to data science, machine learning, deep learning, statistics, algorithms will be uploaded in either English or Korean. 
+공부하면서 필요하다고 느끼거나 정리하고 싶은 것들을 정리하는 잡다한 블로그이기 때문에 틀린 사실이 있거나 덧붙이고 싶은 말이 있으면 언제든 댓글로 남겨주세요.
