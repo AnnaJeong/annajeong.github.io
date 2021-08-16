@@ -1,6 +1,6 @@
 --- 
 title: "[LeetCode] Longest Substring without Repeating Characters"
-excerpt: Longest Substring 찾기
+excerpt: 가장 긴 부분 문자열 찾기
 
 categories:
     - Algorithm

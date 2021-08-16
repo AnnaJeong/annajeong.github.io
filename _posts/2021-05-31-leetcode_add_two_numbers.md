@@ -1,6 +1,6 @@
 --- 
 title: "[LeetCode] Add Two Numbers"
-excerpt: Linked List의 숫자를 두 개 더하는 문제
+excerpt: 링크드 리스트의 숫자 두 개 더하기
 
 categories:
     - Algorithm
